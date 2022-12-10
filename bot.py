@@ -26,7 +26,7 @@ async def start(event):
     buttons=(
       [
         Button.url('📣 Channel', 'https://t.me/RendyProjects'),
-        Button.url('👥 support', 'https://t.me/VegetaSupports')
+        Button.url('👥 support', 'https://t.me/pantekys')
       ]
     )
   )
@@ -40,7 +40,7 @@ async def help(event):
     buttons=(
       [
         Button.url('📣 Channel', 'https://t.me/RendyProjects'),
-        Button.url('👥 Support', 'https://t.me/VegetaSupports')
+        Button.url('👥 Support', 'https://t.me/pantekys')
       ]
     )
   )
